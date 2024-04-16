@@ -5,10 +5,11 @@
 ### Languages and Technologies
 
 - **Languages:** 
-  - css
-  - html
-  - c#
-  - js
+  - .cpp
+  - .html
+  - .c#
+  - .js
+  - .McMeta
   
 - **Tools:** 
   - **Texture pack making**
@@ -38,9 +39,9 @@
 
 Here are some of the projects I have enchanted with my cottagecore charm:
 
-- **Project Blossom:** Kouvolismi SMP - Official Texture Pack - A 🌸 brief description of the project
-- **Project Evergreen:** Super Kaisen - A 🌲 brief description of the project
-- **Project Dusklight:** Searching... - A 🌙 brief description of the project
+- **Project Blossom:** Kouvolismi SMP - Official Texture Pack - A 🌸 Minecraft Texture Pack
+- **Project Evergreen:** Super Kaisen - A 🌲 A 2d game
+- **Project Dusklight:** Searching... - A 🌙
 
 ### Skills 
 
